@@ -26,9 +26,9 @@ Hey there! I'm **Praveenkumar S**, a passionate **Full-Stack Developer** and **f
 
 - 💼 Currently interning as a **Full-Stack Developer at [Vlinder.io](https://vlinder.io)**
 - 🔭 Sharpening my **DSA** and **system design** skills on the side
-- 🌱 Exploring **cloud-native** development and **ML integration** in full-stack apps
+- 🌱 Exploring **ML integration** in full-stack apps
 - 🏆 Certified **SnowPro Associate** & **ITS Python** professional
-- 🤝 Open to **internships** and **full-time opportunities**
+- 🤝 Open to **internships** and **full-time Job opportunities**
 - ⚡ Fun facts: I solve Rubik's cubes in **35 sec (3×3)** and **8 sec (2×2)**, and I play chess with a **1000+ rating** on chess.com!
 
 ---
@@ -37,6 +37,7 @@ Hey there! I'm **Praveenkumar S**, a passionate **Full-Stack Developer** and **f
 
 **Languages**
 
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -49,6 +50,12 @@ Hey there! I'm **Praveenkumar S**, a passionate **Full-Stack Developer** and **f
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+
+**Object Relational Models**
+
+[![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 
 **Databases**
 

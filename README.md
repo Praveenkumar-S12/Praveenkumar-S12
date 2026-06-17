@@ -24,7 +24,8 @@
 
 Hey there! I'm **Praveenkumar S**, a passionate **Full-Stack Developer** and **final-year B.E. CSE student** at **National Engineering College, Tamil Nadu** (CGPA: 8.23). I love building scalable web applications that solve real-world problems — from biometric-integrated payroll systems to AI-powered biodiversity platforms.
 
-- 🔭 Currently working on sharpening my **DSA** and **system design** skills
+- 💼 Currently interning as a **Full-Stack Developer at [Vlinder.io](https://vlinder.io)**
+- 🔭 Sharpening my **DSA** and **system design** skills on the side
 - 🌱 Exploring **cloud-native** development and **ML integration** in full-stack apps
 - 🏆 Certified **SnowPro Associate** & **ITS Python** professional
 - 🤝 Open to **internships** and **full-time opportunities**
